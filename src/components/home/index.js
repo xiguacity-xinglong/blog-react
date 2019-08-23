@@ -1279,7 +1279,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://github.com/断线风筝`}
+                href={`https://github.com/xiguacity-xinglong`}
               >
                 github
               </a>
@@ -1303,7 +1303,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://segmentfault.com/u/断线风筝`}
+                href={`https://segmentfault.com/`}
               >
                 segmentfault
               </a>
@@ -1311,7 +1311,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://www.jianshu.com/u/91717b553bfd`}
+                href={`https://www.jianshu.com`}
               >
                 简书
               </a>

@@ -16,7 +16,7 @@
 
 ![mobile.gif](https://upload-images.jianshu.io/upload_images/12890819-f97e98dfa9ac76b8.gif?imageMogr2/auto-orient/strip)
 
-完整效果请看：[http://断线风筝.cn:2019/](http://断线风筝.cn:2019/)
+完整效果请看：[https://blog.caixinglong.cn/](https://blog.caixinglong.cn)
 
 ## 功能描述
 
@@ -34,14 +34,13 @@
 - [x] 发文（支持 MarkDown 语法）
 - [x] 文章详情展示（支持代码语法高亮）
 - [x] 移动端适配
-- [x] 网站波浪效果(请看 https://断线风筝.cn/wave.html)
+- [x] 网站波浪效果(请看 https://blog.caixinglong.cn/wave.html)
 - [x] 第三方 github 授权登录
 - [x] 文章归档
 - [x] 文章详情的目录
 
-`因为访问地址 http://断线风筝.cn:2019/ 加了端口 2019 ，所以体验线上的授权功能会受限`
 
-`完整功能请访问 vue + typescript + element-ui 版的 https://断线风筝.cn`
+`完整功能请访问 vue + typescript + element-ui 版的 https://blog.caixinglong.cn`
 
 ### 待实现功能
 
@@ -121,33 +120,25 @@ npm run build 或者 yarn run build
 
 **项目地址：**
 
-> [前台展示: https://github.com/断线风筝/blog-react](https://github.com/断线风筝/blog-react)
+> [前台展示: https://github.com/断线风筝/blog-react](https://github.com/xiguacity-xinglong/blog-react)
 
-> [前台展示: https://github.com/断线风筝/blog-vue-typescript](https://github.com/断线风筝/blog-vue-typescript)
+> [前台展示: https://github.com/断线风筝/blog-vue-typescript](https://github.com/xiguacity-xinglong/blog-vue-typescript)
 
-> [管理后台：https://github.com/断线风筝/blog-react-admin](https://github.com/断线风筝/blog-react-admin)
+> [管理后台：https://github.com/断线风筝/blog-react-admin](https://github.com/xiguacity-xinglong/blog-react-admin)
 
-> [后端：https://github.com/断线风筝/blog-node](https://github.com/断线风筝/blog-node)
+> [后端：https://github.com/断线风筝/blog-node](https://github.com/xiguacity-xinglong/blog-node)
 
-> [blog：https://github.com/断线风筝/blog](https://github.com/断线风筝/blog)
+> [blog：https://github.com/断线风筝/blog](https://github.com/xiguacity-xinglong/blog)
 
 **本博客系统的系列文章：**
 
-- 1. [react + node + express + ant + mongodb 的简洁兼时尚的博客网站](https://断线风筝.cn/articleDetail?article_id=5bf57a8f85e0f13af26e579b)
-- 2. [react + Ant Design + 支持 markdown 的 blog-react 项目文档说明](https://断线风筝.cn/articleDetail?article_id=5bf6bb5e85e0f13af26e57b7)
-- 3. [基于 node + express + mongodb 的 blog-node 项目文档说明](https://断线风筝.cn/articleDetail?article_id=5bf8c57185e0f13af26e7d0d)
-- 4. [服务器小白的我,是如何将 node+mongodb 项目部署在服务器上并进行性能优化的](https://断线风筝.cn/articleDetail?article_id=5bfa728bb54f044b4f9da240)
-- 5. [github 授权登录教程与如何设计第三方授权登录的用户表](https://断线风筝.cn/articleDetail?article_id=5c7bd34e42b55e2ecc90976d)
-- 6. [一次网站的性能优化之路 -- 天下武功，唯快不破](https://断线风筝.cn/articleDetail?article_id=5c8ca2d3b87b8a04f1860c9a)
-- 7. [Vue + TypeScript + Element 搭建简洁时尚的博客网站及踩坑记](https://断线风筝.cn/articleDetail?article_id=5c9d8ce5f181945ddd6b0ffc)
-- 8. [前端解决第三方图片防盗链的办法 - html referrer 访问图片资源403问题](https://断线风筝.cn/articleDetail?article_id=5cfcc6798090bd3c84138a08)
+- 1. [react + node + express + ant + mongodb 的简洁兼时尚的博客网站](https://biaochenxuying.cn/articleDetail?article_id=5bf57a8f85e0f13af26e579b)
+- 2. [react + Ant Design + 支持 markdown 的 blog-react 项目文档说明](https://biaochenxuying.cn/articleDetail?article_id=5bf6bb5e85e0f13af26e57b7)
+- 3. [基于 node + express + mongodb 的 blog-node 项目文档说明](https://biaochenxuying.cn/articleDetail?article_id=5bf8c57185e0f13af26e7d0d)
+- 4. [服务器小白的我,是如何将 node+mongodb 项目部署在服务器上并进行性能优化的](https://biaochenxuying.cn/articleDetail?article_id=5bfa728bb54f044b4f9da240)
+- 5. [github 授权登录教程与如何设计第三方授权登录的用户表](https://biaochenxuying.cn/articleDetail?article_id=5c7bd34e42b55e2ecc90976d)
+- 6. [一次网站的性能优化之路 -- 天下武功，唯快不破](https://biaochenxuying.cn/articleDetail?article_id=5c8ca2d3b87b8a04f1860c9a)
+- 7. [Vue + TypeScript + Element 搭建简洁时尚的博客网站及踩坑记](https://biaochenxuying.cn/articleDetail?article_id=5c9d8ce5f181945ddd6b0ffc)
+- 8. [前端解决第三方图片防盗链的办法 - html referrer 访问图片资源403问题](https://biaochenxuying.cn/articleDetail?article_id=5cfcc6798090bd3c84138a08)
 
 ## 最后
-
-如果您觉得本项目和文章不错或者对你有所帮助，请给个星吧，你的肯定就是我继续创作的最大动力。
-
-鉴于问问题的人有点多，笔者时间有限，处理不过来，大家可以加入 QQ 群：**186045338**，加群暗号：**全栈修炼** ，一起相互交流学习。
-
-笔者经常在这里 BB：
-
-![全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-9399d149e09f638e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
