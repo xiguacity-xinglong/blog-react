@@ -1264,7 +1264,7 @@ class Index extends Component {
         <div className="content">
           <div className="home-header">
             <Link className="link" to={`/home`}>
-              <img className="home-logo" src={logo} alt="biaochenxuying logo" />
+              <img className="home-logo" src={logo} alt="断线风筝 logo" />
             </Link>
           </div>
           <div className="home-body">
@@ -1279,7 +1279,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://github.com/biaochenxuying`}
+                href={`https://github.com/xiguacity-xinglong`}
               >
                 github
               </a>
@@ -1303,7 +1303,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://segmentfault.com/u/biaochenxuying`}
+                href={`https://segmentfault.com/`}
               >
                 segmentfault
               </a>
@@ -1311,7 +1311,7 @@ class Index extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"
-                href={`https://www.jianshu.com/u/91717b553bfd`}
+                href={`https://www.jianshu.com`}
               >
                 简书
               </a>
